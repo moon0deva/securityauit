@@ -1,5 +1,3 @@
-version 0.ooooo
-
 Hey there! 👋  
 This is a simple but powerful Bash script that helps you check the security health of your Linux machine. Whether you're a system admin, an ethical hacker, or just someone who wants to tighten up your system — this tool's for you.
 
