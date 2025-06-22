@@ -16,3 +16,10 @@ It runs a bunch of security checks and gives you a nice little report you can re
 - **User Logins** – Who’s logged in and what they’re doing
 - **Hidden Network Connections** – Spots any sketchy external activity
 
+<pre><code> 
+git clone https://github.com/moon0deva/securityauit.git
+cd securityauit
+chmod +x securityauit.sh
+bash securityauit.sh
+</code></pre>
+
