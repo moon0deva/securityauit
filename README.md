@@ -1,4 +1,4 @@
-# Advanced Linux Security Audit Tool - Ultimate v6.0
+# Advanced Linux Security Audit Tool v6.0
 
 A professional-grade Linux security auditing tool that performs comprehensive system security analysis with beautiful HTML and PDF reports. **No external dependencies required** - works on any Linux distribution.
 
